@@ -13,11 +13,3 @@ def div(a,b):
 def mod(a,b):
     c = a%b
     print(c)
-
-x = int(input("Enter First Number"))
-y = int(input("Enter Seconde Number"))
-add(x,y)
-sub(x,y)
-mul(x,y)
-div(x,y)
-mod(x,y)
